@@ -1,0 +1,5 @@
+{{#user}}
+My name is Vamsi Krishna.
+Here are my skills : Java Programming,HTML, CSS, JavaScript, MySQL, C Programming, Git,Python .
+My email id is pvamsikri2003@gmail.com.
+ {{/user}}
